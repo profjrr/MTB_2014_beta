@@ -32,7 +32,7 @@ var AppData = function() {
 		{ title: "Biological Sciences", description: "Areas of Study directly related to Biological Studies.", url: "images/MTBman.png" },
 		{ title: "Physical Sciences", description: "Primarily areas of Physics and Chemistry Studies.", url: "images/MTBlady.png" },
 		{ title: "Computer Science", description: "Computer Programming and related Technologies.", url: "images/MTBman.png" },
-		{ title: "Other Educational Sites and Topics", description: "Other Educational sites related STEM studies.", url: "images/MTBlady.png" },
+		{ title: "Other Educational Sites and Topics", description: "Other Educational sites focused on STEM studies.", url: "images/MTBlady.png" },
 		{ title: "", description: ".", url: "" }
 	];
     
