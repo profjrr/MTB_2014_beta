@@ -28,12 +28,12 @@ var AppData = function() {
 	];
     
 	_announcements = [
-		{ title: "Mathematics", description: "Math Instruction sites for Beginner through Advanced Math Students.", url: "images/holiday.png" },
-		{ title: "Biological Sciences", description: "Areas of Study directly related to Biological Studies.", url: "images/rewards.png" },
-		{ title: "Physical Sciences", description: "Primarily areas of Physics and Chemistry Studies.", url: "images/cheers.png" },
-		{ title: "Computer Science", description: "Computer Programming and related Technologies.", url: "images/hot-drink.png" },
-		{ title: "Other Educational Sites and Topics", description: "Other Educational sites related STEM studies.", url: "images/love-friend.png" },
-		{ title: "", description: ".", url: "images/best-coffee.png" }
+		{ title: "Mathematics", description: "Math Instruction sites for Beginner through Advanced Math Students.", url: "images/MTBlady.png" },
+		{ title: "Biological Sciences", description: "Areas of Study directly related to Biological Studies.", url: "images/MTBman.png" },
+		{ title: "Physical Sciences", description: "Primarily areas of Physics and Chemistry Studies.", url: "images/MTBlady.png" },
+		{ title: "Computer Science", description: "Computer Programming and related Technologies.", url: "images/MTBman.png" },
+		{ title: "Other Educational Sites and Topics", description: "Other Educational sites related STEM studies.", url: "images/MTBlady.png" },
+		{ title: "", description: ".", url: "" }
 	];
     
 	_private = {
