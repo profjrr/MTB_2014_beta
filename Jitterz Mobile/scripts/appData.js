@@ -10,17 +10,17 @@ var AppData = function() {
     
 	_initialCards = [
 		{
-			"cardNumber":"461253932",
+			"cardNumber":"001",
 			"amount":20,
 			"bonusPoints":60,
 			"expireDate":"2013/12/06"
 		},{
-			"cardNumber":"723128745",
+			"cardNumber":"002",
 			"amount":76,
 			"bonusPoints":22,
 			"expireDate":"2014/10/16"
 		},{
-			"cardNumber":"912472185",
+			"cardNumber":"003",
 			"amount":104,
 			"bonusPoints":56,
 			"expireDate":"2014/11/24"
