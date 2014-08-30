@@ -28,12 +28,12 @@ var AppData = function() {
 	];
     
 	_announcements = [
-		{ title: "Holiday Drinks Are Here", description: "Enjoy your favorite holiday drinks, like Pumpkin Spice Lattes.", url: "images/holiday.png" },
-		{ title: "Register & Get Free Drinks", description: "Register any Jitterz card and start earning rewards like free drinks. Sign-up now.", url: "images/rewards.png" },
-		{ title: "Cheers to Another Year", description: "Raise a cup of bold and spicy Jitterz Anniversary Blend.", url: "images/cheers.png" },
-		{ title: "Hot Drinks Anytime", description: "Find and enjoy our, hot drinks anytime.", url: "images/hot-drink.png" },
-		{ title: "Friend and Love", description: "Get more for your friends.Get Love.", url: "images/love-friend.png" },
-		{ title: "Wide range of choice", description: "Raise a cup of bold and spicy Jitterz Anniversary Blend.", url: "images/best-coffee.png" }
+		{ title: "Mathematics", description: "Math Instruction sites for Beginner through Advanced Math Students.", url: "images/holiday.png" },
+		{ title: "Biological Sciences", description: "Areas of Study directly related to Biological Studies.", url: "images/rewards.png" },
+		{ title: "Physical Sciences", description: "Primarily areas of Physics and Chemistry Studies.", url: "images/cheers.png" },
+		{ title: "Computer Science", description: "Computer Programming and related Technologies.", url: "images/hot-drink.png" },
+		{ title: "Other Educational Sites and Topics", description: "Other Educational sites related STEM studies.", url: "images/love-friend.png" },
+		{ title: "", description: ".", url: "images/best-coffee.png" }
 	];
     
 	_private = {
